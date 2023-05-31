@@ -20,7 +20,7 @@ Change the Wase Engine paths in CMakeLists.txt
 mkdir build
 cd build
 cmake ..
-cmake build .
+cmake --build .
 ```
 
 ## Compatible platforms
