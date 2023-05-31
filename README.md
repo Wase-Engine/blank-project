@@ -13,6 +13,9 @@ This is a blank project to see a simple implementation with Wase Engine.
 ## Setting up this blank project
 
 **CMake**
+
+Change the Wase Engine paths in CMakeLists.txt
+
 ```
 mkdir build
 cd build
